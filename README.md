@@ -1,7 +1,9 @@
-# DSA-Structures-and-Algorithms
-DSA assignment - Stack and Circular Queue using C
 Name :- Anjesh Gaurav 
 ID :- BC2025566
+
+# DSA-Structures-and-Algorithms
+DSA assignment - Stack and Circular Queue using C
+
 Q1) Design and implement a stack using an array without using any built-in stack library.
 Perform the following operations:
  PUSH(x)
